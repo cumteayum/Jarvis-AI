@@ -1,3 +1,3 @@
-# Jarvis-AI
-this was a great project,made an AI with Python 3.8.0
+# Python 3
+
 please support!!!!!!!!
