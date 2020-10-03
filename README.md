@@ -1,3 +1,6 @@
-# Python 3
+# Jarvis Desktop Assistant
 
-please support!!!!!!!!
+# Usage
+```
+python3 jarvis.py
+```
